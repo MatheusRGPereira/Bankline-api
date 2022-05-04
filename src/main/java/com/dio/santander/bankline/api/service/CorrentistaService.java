@@ -1,7 +1,5 @@
 package com.dio.santander.bankline.api.service;
 
-
-
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +12,6 @@ import com.dio.santander.bankline.api.repository.CorrentistaRepository;
 
 @Service
 public class CorrentistaService {
-
 	@Autowired
 	private CorrentistaRepository repository;
 	
@@ -27,11 +24,7 @@ public class CorrentistaService {
 		conta.setSaldo(0.0);
 		conta.setNumero(new Date().getTime());
 		
-		correntista.setConta(null);
-		
 		correntista.setConta(conta);
 		repository.save(correntista);
 	}
-	
-	
 }
