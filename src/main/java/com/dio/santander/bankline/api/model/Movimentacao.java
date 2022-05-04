@@ -16,7 +16,7 @@ import javax.persistence.Table;
 public class Movimentacao {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Integer id;
 
 	@Column(name = "data_hora")
