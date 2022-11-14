@@ -34,7 +34,7 @@
   
  
  
-🎁 Obrigada @Generation pelos aprendizados nessa trilha 
+🎁 Obrigada @DIO pelos aprendizados nessa trilha 
 
 <div align="center">
     <img src="https://i.imgur.com/w8tTOuT.png" title="source: imgur.com" /> 
