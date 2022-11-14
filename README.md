@@ -23,11 +23,11 @@
  * Foi utilizado o banco de dados Postgres para realização do deploy e integração com a plataforma do Heroku
   
  #### 🔨 - E realização dos testes feitas todas no insominia
- *Testes dos endpoints Get de Conta/Correntista
- *Testes dos endpoints GetbyId de Conta/Correntista 
- *Testes dos endpoints Post de Conta/Correntista 
- *Testes dos endpoints Put de Conta/Correntista 
- *Testes dos endpoints Delete de Conta/Correntista
+ * Testes dos endpoints Get de Conta/Correntista
+ * Testes dos endpoints GetbyId de Conta/Correntista 
+ * Testes dos endpoints Post de Conta/Correntista 
+ * Testes dos endpoints Put de Conta/Correntista 
+ * Testes dos endpoints Delete de Conta/Correntista
  
  #### 🔨 - Integração do swagger
  * Foi Criada uma camada na aplicação fazendo a configuração do swagger com os endpoints
